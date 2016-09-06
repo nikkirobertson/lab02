@@ -26,10 +26,10 @@ boolean
 
 * 0, int
 * "hello", string
-* 101 short
-* -1 byte
+* 101 int
+* -1 int
 * true, boolean
-* "33" , srting
+* "33" , string
 * 3.1415 double
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
