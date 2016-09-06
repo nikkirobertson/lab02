@@ -13,16 +13,22 @@
 * return value, Defines and constrains the data type of the value returned from a subroutine or method
 * compiler, A computer program that translates a program written in a high-level language into another language, usually machine language.
 
-## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-
+## In Chapter 1 we have mentioned the data types int and String. Java has more predefined data types. Find out what they are and what they are used for. To do this, you can check Appendix B, or look it up in another Java book or in an online Java language manual. One such manual is at [http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html  
+byte
+short
+long
+float
+double
+char
+boolean	
 ## What are the types of the following values?
 
-* 0
-* "hello"
+* 0, int
+* "hello", string
 * 101
 * -1
-* true
-* "33"
+* true, boolean
+* "33" , char
 * 3.1415
 
 ## What would you have to do to add a new field, for example one called name, to a circle object?
